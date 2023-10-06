@@ -6,7 +6,7 @@ function Profilecard() {
     <Flex justify="space-between" fontWeight="normal"
     >
     <Box p={4}  justify="flex-start" position="relative" pl="10%">
-      <Text position="relative" left={{md:"-90%", sm:"-70%"}} top="40%"  transform="rotate(-90deg)" pointerEvents="none" > texto vertical </Text>
+      <Text position="relative" left={{md:"-70%", sm:"-70%"}} top="40%"  transform="rotate(-90deg)" pointerEvents="none" > texto vertical </Text>
       {/* Otros elementos de Profilecard */}
       <Text fontSize="sm" pointerEvents="none">Germán Alegre</Text>
       <Text pointerEvents="none" fontSize="3xl" mb={4}>

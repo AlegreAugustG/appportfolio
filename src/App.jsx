@@ -15,7 +15,7 @@ function App() {
            
            >
 
-          <Text textAlign="start" fontSize="3xl" color="#212121" p={4} ml={14}   >
+          <Text textAlign="start" fontSize="3xl" color="#212121" p={4} ml={7}   >
             Augusto.
           </Text>
         </Box>
