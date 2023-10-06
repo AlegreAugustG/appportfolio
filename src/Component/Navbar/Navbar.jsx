@@ -1,5 +1,6 @@
 import { Box } from '@chakra-ui/react';
-import { HamburgerIcon } from '@chakra-ui/icons'
+import { HamburgerIcon, ArrowForwardIcon} from '@chakra-ui/icons'
+ 
 
 function Navbar() {
   return (
@@ -29,9 +30,8 @@ function Navbar() {
         </ul>
         <ul id="sub_menu" className="
         sm:m-0 sm:flex-row sm:gap-5 sm:relative
-        sm:-right-20 sm:top-1 md:flex-row flex justify-center
-        md:justify-start md:gap-8 mt-4 md:mt-0
-        
+        sm:-right-20 sm:top-1 md:flex-row flex  
+         md:gap-8 mt-4 md:mt-0   md:right-4
         flex-wrap
  
         ">
@@ -45,7 +45,7 @@ function Navbar() {
           <li className="hover:underline hover:cursor-pointer focus:text-black active:text-gray-400 md:block select-none">Insights</li>
         </ul>
         <ul id="sub_menu" className="sm:gap-5 sm:relative  sm:-right-24 md:right-6  hover: sm:m-0 flex justify-center md:justify-end mt-4 sm:mt-4 md:mt-1">
-          <li className=" hover:underline hover:cursor-pointer focus:text-black active:text-gray-400 md:block select-none text-center md:text-right">Let´s Talk</li>
+          <li className=" hover:underline hover:cursor-pointer focus:text-black active:text-gray-400 md:block select-none text-center md:text-right">Let´s Talk <ArrowForwardIcon /></li>
         </ul>
       </nav>
 
