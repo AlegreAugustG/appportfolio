@@ -1,0 +1,10 @@
+.fix {
+    
+}
+
+@media (max-width: 767.9px) {
+    #button_menu:not(:checked) ~ #menu {
+      display: none;
+      
+    }
+  }
