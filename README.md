@@ -1,7 +1,7 @@
 # Maquetación 
 # Diseño https://dribbble.com/shots/17852586-Dannel-Personal-Portfolio
 
-# Descrición : el diseño obtenido de dribbble se dejo igual el orden de los elementos del portfolio en esa resolución
+# Descripción : el diseño obtenido de dribbble se dejo igual el orden de los elementos del portfolio en esa resolución
 al cambiar la resolución cambia el diseño  al no contar el modelo con un responsive propio.
  ![ejemplo](https://github.com/AlegreAugustG/appportfolio/assets/24574536/f0202d29-bbd1-4d63-bca4-f235f5253e10)
  
